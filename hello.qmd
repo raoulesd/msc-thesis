@@ -42,6 +42,8 @@ plt.show()
 
 This is some stated fact [@graham1989concrete].
 
+## Creating ```requirements.txt```
+
 Use the following command to generate the requirements document. Make sure to exclude all Windows-related packages. I.e. Ctrl + F > "win" and delete all hits.
 ```{bash}
 pip freeze > requirements.txt
