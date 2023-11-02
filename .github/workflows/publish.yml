@@ -19,18 +19,11 @@ jobs:
 
       - name: Install Python and Dependencies
         uses: actions/setup-python@v4
-          with:
-            python-version: '3'
-      
-      - name: Cache pip
-        uses: actions/cache@v3
-          with:
-            path: ~/.cache/pip
-            key: ${{ runner.os }}-pip
-          run: pip install 'mydependency<2'
-          shell: bash
-          run: ${{ github.action_path }}/myscript
-          shell: bash
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      - run: pip install jupyter
+      - run: pip install -r requirements.txt
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
