@@ -1,0 +1,25 @@
+---
+title: "Quarto Basics"
+author: "Raoul Bruens"
+toc: true
+number-sections: false
+highlight-style: pygments
+format: 
+  html: 
+    code-fold: true
+    html-math-method: katex
+  pdf: 
+    geometry: 
+      - top=30mm
+      - left=20mm
+  docx: default
+bibliography: references.bib
+reference-location: margin
+jupyter: python3
+---
+
+## Abstract
+
+## Introduction
+
+## Chapter 1: ABC
