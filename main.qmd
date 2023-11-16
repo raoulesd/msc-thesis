@@ -22,6 +22,9 @@ jupyter: python3
 Lorum ipsum.
 
 ## Introduction
+As AI and computer science innovations continue to evolve, an increasing array of applications will incorporate use cases for these technologies. It is not at all uncommon to see AI or other algorithmic solutions be used for corporate or societal contexts. For one, the results of a certain algorithm or model can be used to establish certain policies. However, within a societal or political context, this does not always happen in a standardised, constructive, or transparent way. This can sometimes lead to ignorance, malpractice or even abuse when it comes down to executing such a policy. Subsequently, if something goes wrong, finding out what went wrong and potentially fixing the problem can be a costly endeavour. On top of this, a certain blame or judicial consequence can entail such infractions.
+
+In this research document, an overview is given of several relevant topics, fields and projects that exemplify or support the need for an open view of processes, with a focus on processes that deal with (public) data. Moreover, different principles are highlighted that will support a [framework/set of requirements] for a process to mitigate the risk of bias, malpractice and obscurity and to maximize stakeholder participation, process transparency, and traceability of decisions. In the end, this [framework/set of requirements] will be validated by showcasing a proof of concept that substantiates the intended purposes.
 
 {{< include chapters/1_open_science.qmd >}}
 
