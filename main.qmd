@@ -23,40 +23,18 @@ Lorum ipsum.
 
 ## Introduction
 
-## Open Science and Science for Policy
-### Open Software/Hardware
-### Trustworthy/explainable AI
-### Woo/wob, Open Overheid
-#### Country comparison on E-gov standards and practices?
-### Inclusive participation
-#### Scope (what cases and respective stakeholders does/can this apply to) / Stakeholder analysis (requirements)
-#### Citizen science and participation
+{{< include chapters/1_open_science.qmd >}}
 
-## Robust Incident Handling
-### What is it / Context
-### Example: Air Safety Investigation
-### Example: Food and Drug Administration (w.r.t. restaurant hygiene inspections)
-### Example: Software development principles
+{{< include chapters/2_robust_incident.qmd >}}
 
-## Steps within a Data Science process and their biases 
-### Data acquisition
-### Data filtering and selection
-### Algorithmic development/implementation
-### Algorithmic application
-### Results handling
+{{< include chapters/3_data_science_steps.qmd >}}
 
-## Requirements (engineering)
-### What have you learned from [policy/open science], [social safety] and [data processes] that we can translate into a set of requirements (for what)?
-### What platform could facilitate the above-stated requirements? What would need to be made/adjusted/fine-tuned to be able to meet all/most requirements?
+{{< include chapters/4_requirements.qmd >}}
 
-## Application on existing processes’
-### TBD case
+{{< include chapters/5_application.qmd >}}
 
-## Proof of concept by example
-### Own process with sample data, own stakeholder. Try to cover as many requirements as possible. WIP0
+{{< include chapters/6_proof_of_concept.qmd >}}
 
-## Results and conclusion
-
-
+{{< include chapters/7_results.qmd >}}
 
 

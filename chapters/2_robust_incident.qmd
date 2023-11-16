@@ -1,0 +1,5 @@
+## Robust Incident Handling
+### What is it / Context
+### Example: Air Safety Investigation
+### Example: Food and Drug Administration (w.r.t. restaurant hygiene inspections)
+### Example: Software development principles
