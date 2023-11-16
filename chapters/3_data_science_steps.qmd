@@ -1,0 +1,6 @@
+## Steps within a Data Science process and their biases 
+### Data acquisition
+### Data filtering and selection
+### Algorithmic development/implementation
+### Algorithmic application
+### Results handling

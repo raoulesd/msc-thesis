@@ -1,0 +1,40 @@
+---
+title: "Thesis on Open Sciene and data - Title WIP"
+author: "Raoul Bruens"
+toc: true
+number-sections: true
+highlight-style: pygments
+format: 
+  html: 
+    code-fold: true
+    html-math-method: katex
+  pdf: 
+    geometry: 
+      - top=30mm
+      - left=20mm
+  docx: default
+bibliography: references.bib
+reference-location: margin
+jupyter: python3
+---
+
+## Abstract {.unnumbered}
+Lorum ipsum.
+
+## Introduction
+
+{{< include chapters/1_open_science.qmd >}}
+
+{{< include chapters/2_robust_incident.qmd >}}
+
+{{< include chapters/3_data_science_steps.qmd >}}
+
+{{< include chapters/4_requirements.qmd >}}
+
+{{< include chapters/5_application.qmd >}}
+
+{{< include chapters/6_proof_of_concept.qmd >}}
+
+{{< include chapters/7_results.qmd >}}
+
+

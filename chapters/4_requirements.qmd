@@ -1,0 +1,3 @@
+## Requirements (engineering)
+### What have you learned from [policy/open science], [social safety] and [data processes] that we can translate into a set of requirements (for what)?
+### What platform could facilitate the above-stated requirements? What would need to be made/adjusted/fine-tuned to be able to meet all/most requirements?

@@ -1,2 +1,2 @@
 # open-science-thesis
- Quatro files for MSc Thesis on Open Science
+ Quarto files for MSc Thesis on Open Science

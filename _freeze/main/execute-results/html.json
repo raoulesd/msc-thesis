@@ -1,0 +1,11 @@
+{
+  "hash": "a6440fc3bf025e3e3cd7f52903822b21",
+  "result": {
+    "markdown": "---\ntitle: Thesis on Open Sciene and data - Title WIP\nauthor: Raoul Bruens\ntoc: true\nnumber-sections: true\nhighlight-style: pygments\nformat:\n  html:\n    code-fold: true\n    html-math-method: katex\n  pdf:\n    geometry:\n      - top=30mm\n      - left=20mm\n  docx: default\nbibliography: references.bib\nreference-location: margin\n---\n\n## Abstract {.unnumbered}\nLorum ipsum.\n\n## Introduction\n\n## Open Science and Science for Policy\n### Open Software/Hardware\n### Trustworthy/explainable AI\n### Woo/wob, Open Overheid\n#### Country comparison on E-gov standards and practices?\n### Inclusive participation\n#### Scope (what cases and respective stakeholders does/can this apply to) / Stakeholder analysis (requirements)\n#### Citizen science and participation\n\n## Robust Incident Handling\n### What is it / Context\n### Example: Air Safety Investigation\n### Example: Food and Drug Administration (w.r.t. restaurant hygiene inspections)\n### Example: Software development principles\n\n## Steps within a Data Science process and their biases \n### Data acquisition\n### Data filtering and selection\n### Algorithmic development/implementation\n### Algorithmic application\n### Results handling\n\n## Requirements (engineering)\n### What have you learned from [policy/open science], [social safety] and [data processes] that we can translate into a set of requirements (for what)?\n### What platform could facilitate the above-stated requirements? What would need to be made/adjusted/fine-tuned to be able to meet all/most requirements?\n\n## Application on existing processes’\n### TBD case\n\n## Proof of concept by example\n### Own process with sample data, own stakeholder. Try to cover as many requirements as possible. WIP0\n\n## Results and conclusion\n\n",
+    "supporting": [
+      "main_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

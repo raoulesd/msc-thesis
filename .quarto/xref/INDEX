@@ -1,0 +1,15 @@
+{
+  "hello.qmd": {
+    "hello.html": "fb549ce3"
+  },
+  "main.qmd": {
+    "main.html": "c9b00b32",
+    "main.tex": "3018f3c4",
+    "main.docx": "2f1e37a4"
+  },
+  "test/hello.qmd": {
+    "hello.html": "e1596d16",
+    "hello.tex": "822248b8",
+    "hello.docx": "4d53f28a"
+  }
+}
