@@ -2,7 +2,7 @@
 title: "Thesis on Open Sciene and data - Title WIP"
 author: "Raoul Bruens"
 toc: true
-number-sections: false
+number-sections: true
 highlight-style: pygments
 format: 
   html: 
@@ -18,7 +18,7 @@ reference-location: margin
 jupyter: python3
 ---
 
-## Abstract
+## Abstract {.unnumbered}
 Lorum ipsum.
 
 ## Introduction
